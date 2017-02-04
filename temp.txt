@@ -1,19 +1,1 @@
 ctrl+alt+f1/f7- switch cmd/ gui modes in ubuntu
-sudo su -/username- to switch user modes
-
-Choom choom chhanana baaje maiyya pav paijaniya- also remix, 
-We will join forces
-Hanuman chalisa remix- powerful
-
-Open ssh installation on the guest machine and for putty ask for the ip address.
-	no port forwarding necessary
-	archive.eclipse.org/technology/epp/downloads/release/luna/SR1/eclipse-java-luna-SR1-linux-gtk-x86_64.tar.gz used VPN to download
-	cp -a ....to copy directories to /usr/local
-	installed eclipse and log4j thru cmd line.
-	
-	Ctrl+shift+f to for proper indentation in eclipse
-Future plans
-	Docker Tuts, ML, BigD, Stats, GIS, etc
-	Shell Scripting
-	Plan certifications
-	
