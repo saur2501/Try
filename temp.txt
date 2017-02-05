@@ -1,9 +1,9 @@
 ctrl+alt+f1/f7- switch cmd/ gui modes in ubuntu
 sudo su -/username- to switch user modes
 
-Choom choom chhanana baaje maiyya pav paijaniya- also remix, 
+Choom choom chhanana baaje maiyya pav paijaniya- remix also.
 We will join forces
-Hanuman chalisa remix- powerful
+Hanuman chalisa remix- sounds amazing.
 
 Open ssh installation on the guest machine and for putty ask for the ip address.
 	no port forwarding necessary
@@ -18,3 +18,4 @@ Future plans
 	Plan certifications
 Trivial Addition.
 	aa bhi jaa.
+Trivial More Addition
