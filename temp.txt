@@ -16,4 +16,5 @@ Future plans
 	Docker Tuts, ML, BigD, Stats, GIS, etc
 	Shell Scripting
 	Plan certifications
+Trivial Addition.
 	
