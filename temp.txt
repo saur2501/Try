@@ -1,3 +1,4 @@
+Hello Here
 ctrl+alt+f1/f7- switch cmd/ gui modes in ubuntu
 sudo su -/username- to switch user modes
 
